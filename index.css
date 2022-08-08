@@ -15,7 +15,6 @@
 .whole {
     display: flex;
     flex-direction: row;
-    margin-left: 0px;
 }
 
 .intro {
@@ -25,7 +24,7 @@
 }
 
 .text {
-    color: hsl(300, 67%, 8%);
+    color:  hsl(300, 66%, 12%);;
     font-size: 45px;
     margin-bottom: 10px;
 }
@@ -39,7 +38,7 @@
     flex-direction: column;
     align-content: left;
     margin-left: 150px;
-    margin-top: 20px;
+    margin-top: 80px;
 }
 
 .starbox {
@@ -166,4 +165,7 @@
     color: rgb(209, 17, 145);
 }
 
-
+.cmt {
+    color: white;
+    margin-top: 0px;
+}
